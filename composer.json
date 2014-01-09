@@ -1,0 +1,14 @@
+{
+    "name": "balancer/bors-3rd-css-emoticons-assets",
+    "description": "CSS Emoticons assets",
+    "license": "Dual licensed under the MIT and GPL licenses",
+    "authors": [
+        {
+            "name": "Balancer",
+            "email": "balancer@balancer.ru"
+        }
+    ],
+    "require": {
+		"atelierspierrot/assets-manager": "1.*"
+    }
+}
