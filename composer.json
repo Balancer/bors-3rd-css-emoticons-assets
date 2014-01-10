@@ -17,19 +17,10 @@
 	"type": "bors-assets",
 
 	"extra": {
-		"assets-dir": "www",
-		"assets-vendor-dir": "vendor",
-		"document-root": "www",
-		"assets-config-class": "AssetsManager\\Config\\DefaultConfig",
-		"assets-package-class": "AssetsManager\\Package\\AssetsPackage",
-		"assets-preset-class": "AssetsManager\\Package\\Preset",
-		"assets-package-installer-class": "AssetsManager\\Composer\\Installer\\AssetsInstaller",
-		"assets-autoload-generator-class": "AssetsManager\\Composer\\Autoload\\AssetsAutoloadGenerator",
-
 		"assets-presets": {
 			"jquery.cssemoticons": {
-				"css": "vendor_assets/blue/style.css",
-				"jsfiles_footer": [ "vendor_assets/jquery.metadata.js", "min:vendor/jquery.tablesorter.min.js" ]
+				"css": "/css/jquery.cssemoticons.css",
+				"jsfiles_footer": "/js/jquery.cssemoticons.min.js"
 			}
 		}
 	}
