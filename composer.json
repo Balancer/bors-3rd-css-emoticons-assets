@@ -24,7 +24,8 @@
 		"assets-presets": {
 			"jquery.cssemoticons": {
 				"css": "/css/jquery.cssemoticons.css",
-				"jsfiles_footer": "/js/jquery.cssemoticons.min.js"
+				"jsfiles_footer": "/js/jquery.cssemoticons.min.js",
+				"jquery_plugin": "cssemoticons"
 			}
 		}
 	}
