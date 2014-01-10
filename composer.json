@@ -22,7 +22,7 @@
 
 	"extra": {
 		"assets-presets": {
-			"jquery.cssemoticons": {
+			"jquery.cssemoticons1": {
 				"css": "/css/jquery.cssemoticons.css",
 				"jsfiles_footer": "/js/jquery.cssemoticons.min.js",
 				"jquery_plugin": "cssemoticons"
