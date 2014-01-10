@@ -16,6 +16,10 @@
 
 	"type": "bors-assets",
 
+    "autoload": {
+		"classmap": ["classes/"]
+    },
+
 	"extra": {
 		"assets-presets": {
 			"jquery.cssemoticons": {
