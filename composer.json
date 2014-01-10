@@ -26,6 +26,16 @@
 				"css": "/css/jquery.cssemoticons.css",
 				"jsfiles_footer": "/js/jquery.cssemoticons.min.js",
 				"jquery_plugin": "cssemoticons"
+			},
+			"jquery.css-emoticons": {
+				"css": "/css/jquery.cssemoticons.css",
+				"jsfiles_footer": "/js/jquery.cssemoticons.min.js",
+				"jquery_plugin": "cssemoticons"
+			},
+			"jquery.css-emoticons-nf": {
+				"css": "/css/jquery.cssemoticons-nf.css",
+				"jsfiles_footer": "/js/jquery.cssemoticons.nf.min.js",
+				"jquery_plugin": "cssemoticons.nf"
 			}
 		}
 	}
